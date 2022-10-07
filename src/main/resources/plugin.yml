@@ -1,0 +1,11 @@
+name: TibiaCraft
+main: pl.sahee.TibiaCraft.TibiaCraft
+version: 1.0
+api-version: 1.16
+commands:
+  b:
+    description: Builder
+    usage: /<command> 0 all
+  q:
+    description: Queue
+    usage: /<command> start|stop
